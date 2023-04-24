@@ -126,3 +126,6 @@ int main()
     }
     return 0;
 }
+
+
+// for output only type 1 to 8 it will be done automatically.
