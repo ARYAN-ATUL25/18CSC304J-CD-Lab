@@ -277,3 +277,14 @@ int main() {
         }
     }
 }
+
+
+
+//INPUT
+/*
+E->TA
+A->+TA|^
+T->FB
+B->*FB|^
+F->t|(E)
+*/
