@@ -74,3 +74,9 @@ if(l==1)
 dove(k);
 else
 exit(0);}
+
+
+
+//INPUT
+
+/* Enter the Expression : a=b+c-d */
