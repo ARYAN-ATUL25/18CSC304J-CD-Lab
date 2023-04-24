@@ -23,8 +23,20 @@ Files
 The following files can be found in this repository:
 
 lex.l - Implementation of a lexical analyzer using Lex.
+
 parser.y - Implementation of a parser using Yacc.
+
 semantic.c - Implementation of semantic analysis.
+
 intermediate.c - Implementation of intermediate code generation.
+
 optimizer.c - Implementation of code optimization.
+
 codegen.c - Implementation of code generation.
+
+
+Contributions
+Contributions to this repository are welcome. If you find any issues or would like to contribute, please create a pull request.
+
+License
+This repository is licensed under the MIT License. See the LICENSE file for details.
