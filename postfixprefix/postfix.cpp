@@ -71,3 +71,10 @@ string infix_expression = "A+B";
 cout<<"The postfix string is: "<<infixToPostfix(infix_expression);
 return 0;
 }
+
+
+
+//INPUT
+/*
+INPUT THE EXPRESSION : A+B^C/R 
+*/
