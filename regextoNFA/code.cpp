@@ -295,3 +295,11 @@ int main(){
 	cout<<st[st.size()-1][1]<<endl;
 	return 0;
 }
+
+
+//INPUT
+/*
+
+^([a-zA-Z0-9_\-\.]+)@
+
+*/
