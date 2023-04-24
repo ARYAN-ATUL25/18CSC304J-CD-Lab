@@ -6,12 +6,19 @@ This repository contains practical codes and outputs of all the experiments and 
 Concepts
 Some of the key concepts covered in this repository include:
 
-Lexical Analysis
+Lexical Analysis 
+
 Syntax Analysis
+
 Semantic Analysis
+
 Intermediate Code Generation
+
 Code Optimization
+
 Code Generation
+
+
 Files
 The following files can be found in this repository:
 
