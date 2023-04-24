@@ -168,3 +168,16 @@ int main()
 	}
 
 }
+
+
+
+
+
+//ENTER THE PRODUCTIONS OF THE GRAMMAR(0 TO END) : 
+//E->E+T
+//E->T
+//T->T*F
+//T->F
+//F->(E)
+//F->i
+//0
