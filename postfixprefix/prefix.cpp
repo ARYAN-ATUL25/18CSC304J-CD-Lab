@@ -116,3 +116,9 @@ string s = ("A+B");
 cout << infixToPrefix(s) << std::endl;
 return 0;
 }
+
+
+//INPUT
+/*
+INPUT THE EXPRESSION : A+B^C/R 
+*/
