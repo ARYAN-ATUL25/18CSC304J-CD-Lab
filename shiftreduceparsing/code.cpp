@@ -106,3 +106,13 @@ int main()
 cout<<"\n\n \t\t\tSTRING IS REJECTED\t\t\t";
  return 0;
 }
+
+
+
+//INPUT
+
+/*
+E->E+E
+E->E*E
+E->i
+*/
