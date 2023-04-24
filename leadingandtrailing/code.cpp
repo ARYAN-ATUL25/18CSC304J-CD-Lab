@@ -157,3 +157,26 @@ int main()
 	display();
 
 }
+
+
+
+//Input
+
+/*Enter the no. of variables : 3
+	
+Enter the variables :
+E
+T
+F
+
+Enter the no. of terminals: 5
+
+enter the terminals :
+)
+(
+*
++
+i
+
+*/
+
