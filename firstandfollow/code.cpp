@@ -133,3 +133,12 @@ int main(){
     }
     return 0;
 }
+
+
+
+
+//INPUT:
+
+//S->Bb|Cd
+//B->aB|e
+//C->cC|e
