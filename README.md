@@ -1,5 +1,4 @@
 # 18CSC304J-Compiler-Design
-This repository contains all the lab experiments for the subject Compiler Design with the updated C/C++ codes and Outputs
 
 Compiler Design
 This repository contains practical codes and outputs of all the experiments and concepts related to Compiler Design. The purpose of this repository is to provide a comprehensive overview of Compiler Design and its practical implementation.
